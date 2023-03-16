@@ -2,7 +2,7 @@
 # git init
 # git add README.md
 git add .
-git commit -m "add version 1.1.2"
+git commit -m "add version 1.1.3"
 # git branch -M main
 # git remote add origin https://github.com/Ravish108Coder/tindog-fully-responsive.git
 git push -u origin main
